@@ -28,7 +28,6 @@
 * [Getting Started](#getting-started)
 * [Usage](#usage)
 * [To-do list of things to do](#to-do-list-of-things-to-do)
-* [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
