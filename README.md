@@ -10,9 +10,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-<!--
 [![MIT License][license-shield]][license-url]
--->
+
 <p align="center">
   <h3 align="center">Robot following a user (working title)</h3>
 
@@ -56,11 +55,10 @@ For the Trello to the coding project, look [here](https://trello.com/b/Ga4bVRPG/
 ## To-do list of other things to do 
 * Fix and update Readme formatting: See the repo for ["Best README Template"](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
 
-<!--
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
--->
+
 
 ## Contact
 
