@@ -63,7 +63,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Sander Gaarden - @TheGaardenator#2000 on Discord - sandergaarden@gmail.com
 
-Project Link: [https://github.com/gaarden2000/Hearthstone_Sim_Parser](https://github.com/SGaarden/follower-robot)
+Project Link: [https://github.com/gaarden2000/follower-robot](https://github.com/SGaarden/follower-robot)
 
 
 ## Acknowledgements
